@@ -4,9 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Fahad - XPS/Desktop/Lassonde Game/Lassonde-Game-2022/app/src/main/res/layout/activity_age.xml" value="0.35572916666666665" />
+        <entry key="..\:/Users/Fahad - XPS/Desktop/Lassonde Game/Lassonde-Game-2022/app/src/main/res/layout/activity_age2.xml" value="0.35572916666666665" />
         <entry key="..\:/Users/Fahad - XPS/Desktop/Lassonde Game/Lassonde-Game-2022/app/src/main/res/layout/activity_main.xml" value="0.35572916666666665" />
+        <entry key="..\:/Users/Fahad - XPS/Desktop/Lassonde Game/Lassonde-Game-2022/app/src/main/res/layout/content_age.xml" value="0.35572916666666665" />
       </map>
     </option>
+  </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/content_age.xml" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
